@@ -1,0 +1,5 @@
+{
+  "name": "MUSICFLIX",
+  "description": "A Netflix-inspired local music player that uses AI to generate unique artwork and descriptions for your songs.",
+  "requestFramePermissions": []
+}
